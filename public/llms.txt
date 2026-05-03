@@ -1,35 +1,47 @@
-# Business — Generative Engine Optimization Map
+# אלביט תל חי אלקטרוניקה — Generative Engine Optimization Map
+
+> אוקיי אני רוצה לבנות אתר פשוט.. העלאת קבצי חומר ללימודים עם קטגוריות בבלוקים נושאים ותתי נושאים שהכל מוגן באמצעות סיסמה 1526 אפשר לערוך ליצור קטגוריות נושאים למחוק עם אימוג'ים המערכת העלאה עד 50 מגה בייט ושאוכל מהפאנל ניהול פשוט לסגור את האתר בשבתות וחגים או להוציא לתחזוקה או אפילו לנעול ולפתוח קטגוריות אבל שלא יוכלו לראות אותם בפועל
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://elbit-tel-hai-electronics.zappy5.app
 גלו את עולם האלקטרוניקה הצבאית הישראלית המתקדמת ביותר. פתרונות אלקטרוניקה לתעשייה הביטחונית, ציוד מחקרי ומערכות מתקדמות — הכל במקום אחד. צרו קשר עוד היום!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://elbit-tel-hai-electronics.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://elbit-tel-hai-electronics.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://elbit-tel-hai-electronics.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אלביט תל חי אלקטרוניקה
+אוקיי אני רוצה לבנות אתר פשוט.. העלאת קבצי חומר ללימודים עם קטגוריות בבלוקים נושאים ותתי נושאים שהכל מוגן באמצעות סיסמה 1526 אפשר לערוך ליצור קטגוריות נושאים למחוק עם אימוג'ים המערכת העלאה עד 50 מגה בייט ושאוכל מהפאנל ניהול פשוט לסגור את האתר בשבתות וחגים או להוציא לתחזוקה או אפילו לנעול ולפתוח קטגוריות אבל שלא יוכלו לראות אותם בפועל
+
+## Target Audience
+- ארגוני טכנולוגיה צבאיים
+- חברות הייטק
+- אוניברסיטאות מחקר
+
+## Industry
+General
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://elbit-tel-hai-electronics.zappy5.app/sitemap.xml
+- **Robots.txt**: https://elbit-tel-hai-electronics.zappy5.app/robots.txt
